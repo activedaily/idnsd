@@ -1,4 +1,4 @@
-# idwebproto
+# ssinetd
 Web of self sovereign ids, vcs, txs and protocols.
 Protocols and tools to build and transact peers and nets.
 For humans, animals and things.
